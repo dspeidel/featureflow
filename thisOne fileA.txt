@@ -1,3 +1,5 @@
 file for thisOne feature
 add a couple lines
 then commit
+a bit more text
+then back to develop I go
