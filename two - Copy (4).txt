@@ -1,3 +1,0 @@
-second file, some text
-
-feature abc some more text here
